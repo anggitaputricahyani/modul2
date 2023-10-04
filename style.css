@@ -1,0 +1,48 @@
+body {
+    background-color: wheat;
+}
+
+h2 {
+    color: aqua;
+}
+
+h2.header {
+    color: coral;
+}
+
+.header {
+    font-size: 50px;
+}
+
+p{
+    font-size: 20px;
+    color: aqua;
+}
+
+p strong {
+    color: deeppink;
+    font-size: 30px;
+}
+
+p strong.bold {
+    color: deepskyblue;
+}
+
+.uppercase {
+    text-transform: uppercase;
+    text-shadow: 2px 2px 5px red;
+    color: white;
+}
+
+.lowercase {
+    text-transform: lowercase;
+}
+
+ul h5 {
+    font-size: 30px;
+}
+
+ul li {
+    font-size: 20px;
+    color: brown;
+}
